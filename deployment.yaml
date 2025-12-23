@@ -4,7 +4,7 @@ metadata:
   name: website-app
   namespace: default   # 👈 REQUIRED
 spec:
-  replicas: 2
+  replicas: 4
   selector:
     matchLabels:
       app: website
