@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: website
-        image: manojmano36/website-app:
+        image: manojmano36/website-app:NEW_SHA
         ports:
         - containerPort: 80
